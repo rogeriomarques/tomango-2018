@@ -1,6 +1,10 @@
 .logo {
 	letter-spacing: -1px;
-	font-size: 28px;
+	font-size: 22px;
+
+	@include mq(480px) {
+		font-size: 28px;
+	}
 
 	span {
 		letter-spacing: -4px;
@@ -68,9 +72,13 @@
 		line-height: 1;
 		position: relative;
 		z-index: 600;
-		padding: 37px 20px 36px 21px;
+		padding: 22px 15px 23px 21px;
 		max-width: 1372px;
 		margin: 0 auto;
+
+		@include mq(480px) {
+			padding: 37px 20px 36px 21px;
+		}
 
 		.nav-open & {
 			transition: .25s .25s background;
