@@ -13,3 +13,21 @@ From business start-ups to charities, local companies to international brands, o
 
 [Our work](/created/)
 {{%/ billboard %}}
+
+<div class="wrap">
+{{% panel title="Stategy" href="/creates/strategy/" %}}
+Make sure you’re pulling in the right direction. Our in-depth strategic planning identifies how you can leverage opportunities to achieve your business goals.
+{{%/ panel %}}
+
+{{% panel title="Brand Design" href="/creates/brand/" %}}
+From brand identity design to marketing collateral rollout. Because we pay attention to detail, your brand identity works harder for longer.
+{{%/ panel %}}
+
+{{% panel title="Web Design" href="/creates/web/" %}}
+Fast, bespoke websites designed for what your business needs, fine-tuned to convert your visitors into customers and clients.
+{{%/ panel %}}
+
+{{% panel title="Digital Marketing" href="/creates/online-marketing/" %}}
+SEO and Adwords/PPC campaigns, content creation, social media and paid social advertising. We’ll find you the ideal marketing mix to get you the best ROI.
+{{%/ panel %}}
+</div>
