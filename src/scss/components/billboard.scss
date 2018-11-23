@@ -1,0 +1,94 @@
+.billboard {
+	position: relative;
+
+	.wrap {
+		position: relative;
+		padding: 0;
+	}
+
+	@include mq(600px) {
+		background: linear-gradient( to right, #d1d1d1 50%, $red 50% );
+	}
+
+	&__media {
+		background-position: 0 50%;
+		background-repeat: no-repeat;
+		background-color: #d1d1d1;
+		background-size: auto 100%;
+
+		padding-bottom: 68.75%;
+
+		@include mq(600px) {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 40%;
+			height: 100%;
+			padding-bottom: 0;
+		}
+
+		@include mq(1100px) {
+			width: 60%;
+		}
+	}
+
+	&__content {
+		padding: 30px 20px 35px;
+
+		background-color: $red;
+		color: #fff;
+
+		line-height: 1.5;
+
+		@include mq(600px) {
+			margin-left: 40%;
+			padding: 7.5%;
+		}
+
+		@include mq(1100px) {
+			margin-left: 60%;
+			padding: 70px 20px 70px 80px;
+			line-height: 1.75;
+		}
+
+		p {
+			font-size: 1rem;
+
+			&:first-child {
+				font-size: 1.125em;
+			}
+
+			&:last-child {
+				margin: 3em 0 0;
+			}
+
+			@include mq(1100px) {
+				margin: 0 0 2.5em;
+
+				font-size: 1.125rem;
+
+				&:first-child {
+					font-size: 1.375rem;
+				}
+
+				&:last-child {
+					margin: 2.5em 0 0;
+				}
+			}
+		}
+
+		a {
+			font-weight: 700;
+			border-bottom: 1px solid #E3E3E3;
+			padding-bottom: 5px;
+
+			@include mq(600px) {
+				font-size: 1.2em;
+			}
+
+			&:hover {
+				border-color: #fff;
+			}
+		}
+	}
+}
