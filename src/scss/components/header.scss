@@ -68,7 +68,6 @@
 	}
 
 	&-contact {
-		background: transparent;
 		line-height: 1;
 		position: relative;
 		z-index: 600;
@@ -78,11 +77,6 @@
 
 		@include mq(480px) {
 			padding: 37px 20px 36px 21px;
-		}
-
-		.nav-open & {
-			transition: .25s .25s background;
-			background: $black;
 		}
 
 		@include mq(1476px) {
@@ -120,6 +114,9 @@
 		width: 100%;
 		left: 0;
 		top: 0;
+
+		background-color: $red;
+		color: #fff;
 
 		&-wrapper {
 			justify-content: center;
