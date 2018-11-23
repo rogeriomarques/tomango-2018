@@ -7,13 +7,12 @@
 	}
 
 	@include mq(600px) {
-		background: linear-gradient( to right, #d1d1d1 50%, $red 50% );
+		background: linear-gradient( to right, #ebebeb 50%, $red 50% );
 	}
 
 	&__media {
 		background-position: 0 50%;
 		background-repeat: no-repeat;
-		background-color: #ccc;
 		background-size: auto 100%;
 
 		padding-bottom: 68.75%;
