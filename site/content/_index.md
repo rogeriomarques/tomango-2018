@@ -15,7 +15,7 @@ From business start-ups to charities, local companies to international brands, o
 {{%/ billboard %}}
 
 <div class="wrap">
-{{% panel title="Stategy" href="/creates/strategy/" %}}
+{{% panel title="Strategy" href="/creates/strategy/" %}}
 Make sure you’re pulling in the right direction. Our in-depth strategic planning identifies how you can leverage opportunities to achieve your business goals.
 {{%/ panel %}}
 
