@@ -4,7 +4,7 @@ image: images/created/treeconomics/treeconomics-cover.jpg
 description: Showcasing the projects of a leading environmental business.
 banner: images/created/treeconomics/treeconomics-case-study-banner.jpg
 fullImage: treeconomics/Treeconomics-presentation-image.jpg
-weight: 10
+weight: 20
 related:
 - cannadines
 - ECE

@@ -5,7 +5,7 @@ description: Brand identity and cutting edge website design for US insurance com
 banner: images/created/hartwell/Hartwell-banner.jpg
 fullImage: hartwell/hartwell-images-all.jpg
 collage: hartwell/Hartwell_play.gif
-weight: 10
+weight: 20
 related:
 - concept-tag
 - agon-systems
