@@ -1,7 +1,7 @@
 ---
 title: Web Developer
 slug: "careers/web-developer"
-description: "We're looking for a talented experienced web developer to become a key part of our development team."
+description: "We’re looking for a talented web developer to become a key part of our development team."
 ---
 
 **Role type:** Permanent  
