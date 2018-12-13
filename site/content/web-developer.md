@@ -24,7 +24,7 @@ You’ll be a dedicated and committed developer that strives for excellence and 
 
 ## Key tasks and responsibilities
 
-- Liaising with key clients, you’ll be responsible developing high-quality websites
+- Liaising with key clients, you’ll be responsible for developing high-quality websites
 - Working closely with the Creative Director, you’ll be converting Sketch designs into responsive and performant sites
 - You will be responsible for ongoing improvements to and management of existing websites
 - You’ll provide technical resource for trouble-shooting and front-line customer support, and be expected to deliver exceptional levels of customer service
