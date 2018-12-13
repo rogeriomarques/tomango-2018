@@ -4,7 +4,7 @@ image: images/created/hop/created-hop.jpg
 description: Repositioning market-leading engineers at the top of their profession.
 banner: images/created/hop/created-hop-hero.jpg
 fullImage: hop/hop-full.jpg
-weight: 20
+weight: 15
 related:
 - concept-tag
 - fludes-carpets

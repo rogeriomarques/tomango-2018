@@ -4,7 +4,7 @@ image: images/created/cannadines/cannadines-cover.png
 description: Web design and digital marketing strategy development for a leading Sussex business. 
 banner: images/created/cannadines/cannadines-cover-image.png
 fullImage: cannadines/cannadines-full-image.png
-weight: 10
+weight: 5
 related:
 - fludes-carpets
 - agon-systems
