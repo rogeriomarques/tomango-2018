@@ -25,7 +25,7 @@ As part of the team, you'll benefit from:
 
 ### [Web Developer](/careers/web-developer/)
 
-We're looking for a talented experienced web developer to become a key part of our development team.
+We’re looking for a talented web developer to become a key part of our development team.
 
 {{< button "/careers/web-developer/" >}}More details{{</ button >}}
 
