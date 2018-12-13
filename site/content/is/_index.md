@@ -11,8 +11,13 @@ We help ambitious businesses get more of the customers they want.
 
 Our clients are usually very good at what they do and want to grow their business, but don't know how to go about it.
 
-## How we’re different
+## Where we work
+Our studio is a converted farm building in a rural location about five minutes from Lewes and 20 minutes from Brighton – [Visit us](https://www.google.co.uk/maps/place/Tomango+Ltd/@50.9004654,0.0374213,17z
+data=!3m1!4b1!4m5!3m4!1s0x47df624e751c6351:0x102dd9fb9cb32131!8m2!3d50.900462!4d0.03961).
 
+![](images/team/tomango-studio.jpg)
+
+## How we’re different
 We've loved creating brands, designing websites and delivering digital marketing campaigns for our clients since 2013.
 
 But a little while ago we realised what really matters to us is when we make a big difference to our clients' businesses. 
