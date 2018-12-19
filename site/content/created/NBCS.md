@@ -1,7 +1,7 @@
 ---
 title: NBCS - The National Business Crime Solution
 image: images/created/nbcs/nbcs-cover.jpg
-description: Website and digital marketing strategy that's changing an entire industry.
+description: Raising the profile of a national crime-fighting organisation with a new brand identity and website.
 banner: images/created/nbcs/nbcs-banner.jpg
 fullImage: nbcs/nbcs-work.png
 weight: 30
