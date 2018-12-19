@@ -16,9 +16,9 @@ The National Business Crime Solution (NBCS) is a not-for-profit initiative creat
 
 By gathering data in one place, the NBCS provides intelligence and support to its members and the police to help detect, prevent and respond to crimes affecting the UK’s business community.
 
-![](images/created/nbcs/nbcs-logo.gif)
-
 Tomango was commissioned to create a new brand identity and website for the organisation to help with its objective of becoming self-sufficient through increased membership.
+
+![](images/created/nbcs/nbcs-logo.gif)
 
 A brand new identity was developed and applied to a suite of business stationery and a high-spec brochure. We then designed a bespoke, fully responsive website and created a time-lapse video which is used on the home page.
 
