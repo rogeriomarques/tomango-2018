@@ -14,7 +14,6 @@ It can be intimidating to even know where to start.
 We have the experience of helping businesses across all sectors improve their digital footprint and get a good return on their investment.
 
 {{< quote
-	image="images/created/fludes/created-karndean.jpg"
 	body="Almost from day one visits to the Karndean pages increased and the enquiries we had as a result were firm sales opportunities."
 	citation="Andy Laird, Managing Director, Fludes Carpets"
 >}}

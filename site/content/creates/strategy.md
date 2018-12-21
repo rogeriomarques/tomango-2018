@@ -18,7 +18,6 @@ What will your business look like? What size and shape will it be? Will you stil
 Working out the right Strategy can bring these goals within your reach.
 
 {{< quote
-	image="images/creates/strategy-meeting.png"
 	body="For the first time in ages we were able to step back and review the whole business. It gave us a clear direction and meant we could put together a well thought out - and exciting - growth plan."
 	citation="Andy Harmer, Flexitreks"
 >}}

@@ -21,7 +21,7 @@ We've been designing and developing websites in Sussex for over 15 years. Our hu
 
 {{< quote
 	link="/created/hop/"
-	image="images/creates/hop-website.png"
+	image="images/created/hop/created-hop.jpg"
 	body="Our new site’s repositioned us at the top of our industry and is definitely helping us attract more of the projects we want to win."
 	citation="Adam Humphrey, Director, HOP"
 >}}
