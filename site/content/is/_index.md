@@ -12,7 +12,6 @@ We help ambitious businesses get more of the customers they want.
 Our clients are usually very good at what they do and want to grow their business, but don't know how to go about it.
 
 ## How we’re different
-
 We've loved creating brands, designing websites and delivering digital marketing campaigns for our clients since 2013.
 
 But a little while ago we realised what really matters to us is when we make a big difference to our clients' businesses. 
