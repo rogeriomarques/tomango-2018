@@ -4,7 +4,7 @@ author: "liam"
 date: 2018-12-20 10:00:00
 description: Read all about my first 6 months at Tomango – from Artworker to Designer and agency life.
 banner: images/blog/Banner-Tomango-Studio.jpg
-image: images/blog/LR-Tomango-Studio.png
+image: images/blog/Banner-Tomango-Studio.jpg
 thinks/categories: 
  - Web design
 ---
