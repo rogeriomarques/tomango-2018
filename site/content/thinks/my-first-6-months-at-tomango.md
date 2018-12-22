@@ -13,8 +13,6 @@ It’s official...I have passed my probation and I am now a fully fledged team m
 
 <div class="tenor-gif-embed" data-postid="8072244" data-share-method="host" data-width="100%" data-aspect-ratio="1.8863636363636367"><a href="https://tenor.com/view/dance-hip-thrust-napoleon-dynamite-jon-heder-gif-8072244">Dance Hip Thrust GIF</a> from <a href="https://tenor.com/search/dance-gifs">Dance GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-It’s official...I have passed my probation and I am now a fully fledged team member at Tomango!
-
 In the six months or so since I started, I’ve not only worked on some great projects with the team, I also got married **and** bought my first home.
 
 It's definitely been a whirlwind for me, but I’ve enjoyed every second of it!
