@@ -17,7 +17,7 @@ As the 2018 festive season draws ever closer, we'd like to wish all our clients,
 
 > Merry Christmas and Happy New Year!
 
-As our little gift to you, we've updated our previous list and gathered together 101 of our favourite fun facts about Christmas for you to impress your friends and family over the Brussels sprouts...
+As well as being [web design](creates/web) experts, we're also crazy about Christmas. So as our little gift to you, we've updated our previous list and gathered together 101 of our favourite fun facts about Christmas for you to impress your friends and family over the Brussels sprouts...
 
 {{% update %}}
 
