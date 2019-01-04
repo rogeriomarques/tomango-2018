@@ -22,6 +22,4 @@ The new brand identity was developed and applied to a suite of business statione
 
 As part of the project, we also created a time-lapse video which is used on the home page of the site. Filming was carried out in selected locations to represent the range of members’ businesses and edited in-house for use online.
 
-<div style="padding:69.32% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/309128999?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 {{< button "https://home.nationalbusinesscrimesolution.com/" >}}Visit site{{</ button >}}
