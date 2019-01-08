@@ -1,12 +1,12 @@
 ---
-title: SEO
+title: Search Engine Optimisation
 description: Search Engine Optimisation remains one of the key pillars of digital marketing. Our expertise will help your business get found for the right searches by the right people.
 seo_title: "SEO Services Sussex - Digital Marketing Company in Sussex"
 image: images/creates/seo-3.jpg
 weight: 10
 ---
 
-**Organic SEO remains one of the key pillars of digital marketing. Our expertise will help your business get found by the right people.**
+**Organic search and SEO remains one of the key pillars of digital marketing. Our expertise will help your business get found by the right people.**
 
 Our tailor-made campaigns will get your website higher up the rankings for the search terms your target customers use.
 
