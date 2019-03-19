@@ -1,10 +1,12 @@
 ---
-title: "Client's Day"
-author: "tom"
-date: 2019-19-03 08:50:57
-description: To celebrate 'Client's Day', here's an insight into half a dozen of Tomango's brand, web and marketing clients..
-thinks/categories: 
- - web-design
+title: Client's Day
+date: 2020-07-03T08:50:57.000Z
+description: >-
+  To celebrate 'Client's Day', here's an insight into half a dozen of Tomango's
+  brand, web and marketing clients..
+thinks/categories:
+  - latest-news
+author: tom
 ---
 
 No matter what goods or services you sell, the truth is that your business would be nothing without its clients.
