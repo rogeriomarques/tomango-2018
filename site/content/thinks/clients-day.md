@@ -39,7 +39,9 @@ You can read more about the work we have carried out for BC Beauty Training in o
 
 ## Cannadines
 
-[Cannadines](https://www.cannadines.co.uk/) is a family-run business in Uckfield that specialises in quality fitted kitchens, bathrooms and bedrooms. Founded in 1994, the company has steadily grown under the stewardship of Peter Cannadine and his son Ross, and in April 2017 moved to its current showroom location on the Bellbrook Industrial Estate. Tomango has worked with Cannadines since 2003; the relationship between Ross and our MD Mark started as a result of a chance encounter at an ante-natal class shortly before the birth of their children.
+[Cannadines](https://www.cannadines.co.uk/) is a family-run business in Uckfield that specialises in quality fitted kitchens, bathrooms and bedrooms. Founded in 1994, the company has steadily grown under the stewardship of Peter Cannadine and his son Ross, and in April 2017 moved to its current showroom location on the Bellbrook Industrial Estate. 
+
+Tomango has worked with Cannadines since 2003; the relationship between Ross and our MD Mark started as a result of a chance encounter at an ante-natal class shortly before the birth of their children.
 
 In that time we’ve helped them establish their dominant local online presence; they enjoy page one position one for a whole range of their key search terms.
 
