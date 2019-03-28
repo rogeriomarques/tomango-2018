@@ -9,7 +9,7 @@ related:
   - hop
 ---
 
-** A strong web presence attracts your target visitors and turns them into your new customers.**
+**A strong web presence attracts your target visitors and turns them into your new customers.**
 
 But it's paying attention to the detail that makes all the difference.
 
