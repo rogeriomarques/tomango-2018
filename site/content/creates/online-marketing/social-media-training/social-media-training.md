@@ -20,7 +20,7 @@ First, we’ll ask you some questions to help our team understand exactly:
 
 Once we’ve gathered your answers and done some research, we’ll invite you to our countryside studio to conduct your training. Should it be easier for you, however, we can come to you and conduct the session at your home or place of business.
 
-[Picture of the studio]
+![Tomango Offices](/images/blog/Banner-Tomango-Studio.jpg)
 
 The training will last two to three hours, with a final hour dedicated to a Q&A session.
 We offer training in the following:
