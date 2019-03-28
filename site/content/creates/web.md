@@ -9,7 +9,7 @@ related:
   - hop
 ---
 
-**A strong web presence attracts your target visitors and turns them into your new customers.**
+** A strong web presence attracts your target visitors and turns them into your new customers.**
 
 But it's paying attention to the detail that makes all the difference.
 
@@ -27,6 +27,7 @@ We've been designing and developing websites in Sussex for over 15 years. Our hu
 >}}
 
 ## How we design your website
+
 Before we even think about writing the first line of code, we need to understand what you're trying to achieve.
 
 What’s your website for? What do you want it to do for your business? What do people want to do when they use it?
