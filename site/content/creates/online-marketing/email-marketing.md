@@ -2,7 +2,7 @@
 title: Email Marketing
 description: Search Engine Optimisation remains one of the key pillars of digital marketing. Our expertise will help your business get found for the right searches by the right people.
 seo_title: "SEO Services Sussex - Digital Marketing Company in Sussex"
-image: images/creates/seo-3.jpg
+image: images/creates/email-marketing.jpg
 weight: 40
 ---
 
@@ -21,5 +21,3 @@ From setting up email accounts to managing email lists, from writing engaging co
 Our in-house team of designers are equipped to produce bespoke HTML email templates that reflect your brand design and website and look great when delivered into people’s inboxes.
 
 Do you want to build email marketing into your strategy? [Get in touch](/contact) with Tomango today.
-
-{{< button "/contact/" >}}Get in touch{{</ button >}}

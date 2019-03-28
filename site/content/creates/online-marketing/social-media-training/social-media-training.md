@@ -34,5 +34,4 @@ Whether you want to build a community on Facebook, cultivate a beautiful Instagr
 
 Please [get in touch](/contact) for more details, to receive a quote, and to book your social media training.
 
-
 {{< button "/creates/online-marketing/" >}}Digital Marketing{{</ button >}}
