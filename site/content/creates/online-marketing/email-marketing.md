@@ -8,7 +8,7 @@ weight: 40
 
 **Building an email list of customers can be one of the most valuable marketing exercises you can achieve as a business owner.**
 
-Those who have signed up to receive your emails have already shown a qualified interest in your business. It’s therefore no surprise that 73% of marketers see email as the number one digital marketing channel for a return on investment!
+Those who have signed up to receive your emails have already shown a qualified interest in your business. It’s therefore no surprise that [73% of marketers](https://www.marketingweek.com/2018/04/05/email-marketing) see email as the number one digital marketing channel for a return on investment!
 
 Email marketing is direct, instantaneous and allows you to communicate on a personal level with your customers. build trust, and encourage them to return your website and convert.
 

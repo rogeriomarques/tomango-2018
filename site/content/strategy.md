@@ -32,4 +32,3 @@ If we just took your order as if you were picking from a menu in a restaurant, f
 Prepare to be open-minded. Prepare to be challenged. Put yourself in the hands of experts.
 
 {{< button "/discovery/" >}}Start your journey{{</ button >}}
-
