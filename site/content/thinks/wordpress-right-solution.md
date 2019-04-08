@@ -13,7 +13,7 @@ When it comes to choosing a content management platform for your website, there 
 
 ## Ease of use
 
-In years gone by, when you wanted to update content on your website, you’d have to contact your web development agency and book in the amendments. They would then update the copy and images nestled within the website code and send you the page to check over. Following that, the updates would be made live and you’d be charged for the time. It was all quite an ordeal and it could be rather expensive if you had a lot to update.
+In years gone by, when you wanted to update content on your website, you’d have to contact your [web development agency](/creates/web) and book in the amendments. They would then update the copy and images nestled within the website code and send you the page to check over. Following that, the updates would be made live and you’d be charged for the time. It was all quite an ordeal and it could be rather expensive if you had a lot to update.
 
 But that’s a thing of the past with a content management system (CMS) like WordPress. Updating your website couldn’t be easier; simply type straight into the editor or paste from Word and click update – there’s nothing more to it.
 

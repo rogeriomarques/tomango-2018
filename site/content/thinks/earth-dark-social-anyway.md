@@ -16,7 +16,7 @@ But as the title suggests, what the heck is '*dark social*'?
 
 ![](images/blog/shutterstock_275117417.jpg)
 
-Essentially, it's visits to your website that comes from the sharing of content on social platforms that aren't easily quantified. Traffic that doesn't appear on Google Analytics in the 'Social' channel, but instead actually comes under 'Direct'.
+Essentially, it's [visits to your website](/creates/web) that comes from the sharing of content on social platforms that aren't easily quantified. Traffic that doesn't appear on Google Analytics in the 'Social' channel, but instead actually comes under 'Direct'.
 
 Visit a website, decide to share, copy the URL, and paste somewhere to send to your friends. That's pretty much the journey for dark social.
 

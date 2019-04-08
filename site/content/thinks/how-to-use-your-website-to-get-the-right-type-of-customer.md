@@ -22,7 +22,7 @@ To grow your business in the way you want, you don’t just need more customers.
 
 You need more of the **right type** of customers.
 
-So how do you get more of your best customers from your website?
+So how do you get more of your [best customers from your website?](/creates/web)
 
 ## 1. Identify who your best customers are
 

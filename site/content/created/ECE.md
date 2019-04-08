@@ -23,7 +23,7 @@ Since launching the site later that year, ECE has grown from 50 people to over 7
 	citation="Stuart Eatock, Managing Director, ECE Architecture"
 >}}
 
-The site also focuses on ECE’s strong portfolio, putting their work front and centre to attract more of the projects and clients they want. In 2018, the design was updated to realign with ECE’s current branding and make the
+The site also focuses on ECE’s strong portfolio, putting their work front and centre to attract more of the projects and clients they want. In 2018, the [website design](/creates/web) was updated to realign with ECE’s current branding and make the
 exceptional photography even more the star of the show.
 
 {{< button "http://www.ecearchitecture.com/" >}}Visit site{{</ button >}}

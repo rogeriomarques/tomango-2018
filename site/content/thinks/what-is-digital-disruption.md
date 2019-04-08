@@ -26,7 +26,7 @@ How have these companies achieved this?
 
 [James McQuivey](https://www.youtube.com/watch?v=AotSKkw5FrE) notes that there are three root causes that have led to a huge amount of digital disruption in recent years:
 
-1. The prevalence of *free or cheap digital tools* that allow people to set up a business and get to market quicker, and at a lower price point. This can include anything from setting up a website using WordPress to easily contacting overseas suppliers to reduce manufacturing costs.
+1. The prevalence of *free or cheap digital tools* that allow people to set up a business and get to market quicker, and at a lower price point. This can include anything from [setting up a website using WordPress](/creates/web) to easily contacting overseas suppliers to reduce manufacturing costs.
 1. The rise of *digital platforms* to enable businesses to reach customers in new ways. Think companies that utilise social media for customer services, wearable technology, or tailor-made apps.
 1. Finally, the increase in the sheer *number of digital consumers* and with it their ability to readily accept finding new products and services online at a moment's notice.
 

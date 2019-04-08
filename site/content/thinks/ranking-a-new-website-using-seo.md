@@ -8,7 +8,7 @@ thinks/categories:
  - digital-marketing
 ---
 
-So you've got a brand spanking new website, and you're now ready to release it out into the wild and start attracting traffic to it. But what should you realistically be expecting in terms of results?
+So you've got a brand spanking [new website](/creates/web), and you're now ready to release it out into the wild and start attracting traffic to it. But what should you realistically be expecting in terms of results?
 
 ![](images/blog/shutterstock_407066392.jpg)
 

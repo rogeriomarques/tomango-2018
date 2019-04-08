@@ -13,7 +13,7 @@ thinks/categories:
 
 She began her career as a primary school teacher, before becoming a maths consultant and then a lecturer and researcher at the Institute of Education, University of London. She's now a freelance consultant running courses and researching and writing about best practices in education. So she knows her stuff.
 
-We've been working with Shirley for over eight years, building one of her first websites, before adding ecommerce functionality and an online booking system for her courses.
+We've been working with Shirley for over eight years, [building one of her first websites](/creates/web), before adding ecommerce functionality and an online booking system for her courses.
 
 ## Unique video content
 

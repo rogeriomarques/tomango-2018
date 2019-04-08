@@ -8,7 +8,7 @@ thinks/categories:
  - web-design
 ---
 
-How do you know when it's time to get a new website?
+How do you know when it's time to get a [new website?](/creates/web)
 
 Use our guide to help you look for the signs that tell you it's time to start planning:
 

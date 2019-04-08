@@ -9,7 +9,7 @@ thinks/categories:
  - web-design
 ---
 
-Writing copy for your website is hard. Writing *good* copy is even harder.
+Writing copy for your [website](/creates/web) is hard. Writing *good* copy is even harder.
 
 A common misconception about writing good copy is that it must be lavish, flowing and full of impressive words; and many writers find this prospect intimidating.
 

@@ -20,7 +20,7 @@ Lots of clients come to us without a fully developed brief, so we work with them
 
 In this post, I'm going to walk you through the process I go through with a client in our first planning meeting, and show you how this helps you think about what features you need to include in your new site.
 
-We start by finding out what the point of the website is, and how it fits in with your business goals. We can do this by asking three key questions:
+We start by finding out what the point of the [website](/creates/web) is, and how it fits in with your business goals. We can do this by asking three key questions:
 
 ## 1. What are the aims of the website?
 

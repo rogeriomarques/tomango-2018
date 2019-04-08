@@ -32,4 +32,8 @@ Whether it's on Facebook, Instagram or Twitter, Tomango can help you create enga
 
 From improving sales or signups, extending the reach of content, or remarketing to website visitors - we'll find the right tactics to get you the best return from your investment.
 
-{{< button "/contact/" >}}Get in touch{{</ button >}}
+## Social Media Training
+
+From improving sales or signups, extending the reach of content, or remarketing to website visitors — our specialised Facebook and Instagram Ad Manager training sessions will be built around ensuring we leave you with the skills to run effective paid social campaigns.
+
+{{< button "/creates/online-marketing/social-media-training/social-media-training/" >}}Read more{{</ button >}}

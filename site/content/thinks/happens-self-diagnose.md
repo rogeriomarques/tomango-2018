@@ -42,6 +42,8 @@ No, you'd expect them to diagnose or consider your problem and suggest the best 
 
 ## The process of Discovery
 
+You might get in touch with us to talk about a [new website](/creates/web), because - in all good faith - that’s what you think you need.
+
 We do exactly the same thing with our Discovery sessions.
 
 You might get in touch with us to talk about a website, because - in all good faith - that's what you think you need.

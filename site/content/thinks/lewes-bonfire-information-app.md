@@ -149,4 +149,4 @@ This project uses the same software and tools we use at Tomango for every client
 * Design: [Sketch](https://youtu.be/5EatUkHez0U)
 * Prototype: [InVision](https://deploy-preview-50--tomango.netlify.com/thinks/why-we-use-invision/)
 
-If you are interested in finding out more about how Tomango can help you with your web design project, or have any comments, questions or feedback regarding the Bonfire PWA, [get  in touch](/contact).
+If you are interested in finding out more about how Tomango can help you with your [web design project](/creates/web), or have any comments, questions or feedback regarding the Bonfire PWA, [get  in touch](/contact).

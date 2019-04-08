@@ -11,7 +11,7 @@ thinks/categories:
 
 At Tomango we make it a daily ritual to check industry-related websites to stay up-to-date with the latest trends, technology and design.
 
-This process allows us to get both inspiration and valuable insight from innovative brand, web and marketing campaigns we see. This might eventually feed into something we do for one of our own clients - or, alternatively, help us
+This process allows us to get both inspiration and valuable insight from innovative [brand](/creates/web), [web](/creates/web) and [marketing](/creates/online-marketing) campaigns we see. This might eventually feed into something we do for one of our own clients - or, alternatively, help us
 understand what to avoid entirely!
 
 Of the various elements of what we do, [brand design](/creates/brand) is far and away the one that brings the most conversation to Tomango HQ.

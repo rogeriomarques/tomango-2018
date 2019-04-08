@@ -8,7 +8,7 @@ thinks/categories:
  - web-design
 ---
 
-We're proud to announce the launch of a rapid new website for [Hartwell Insurance](https://www.hartwell-insurance.com/).
+We're proud to announce the launch of a rapid [new website](/creates/web) for [Hartwell Insurance](https://www.hartwell-insurance.com/).
 
 The site was built with global performance as a first-priority feature. To that end, the site is built in Hugo, a static-site generator that does away with databases and the performance hit that comes from them.
 

@@ -7,7 +7,7 @@ thinks/categories:
  - latest-news
 ---
 
-We're delighted to announce the long-awaited launch of a new website for NS Weddings &amp; Events, [wedding and events planners](http://www.nsweddingsandevents.com) in Hampshire.
+We're delighted to announce the long-awaited launch of a [new website](/creates/web) for NS Weddings &amp; Events, [wedding and events planners](http://www.nsweddingsandevents.com) in Hampshire.
 
 Founder Naomi Sautter and her team work closely with their clients to transform their ideas into an event that guests will talk about for years.
 

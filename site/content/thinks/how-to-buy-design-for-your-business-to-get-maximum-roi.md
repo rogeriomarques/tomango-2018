@@ -17,7 +17,7 @@ But how do you go about **buying design**?
 
 ## The old-fashioned way, and why it’s flawed as a process
 
-I don’t know exactly when it became standard practice, but the way most businesses find an agency to help them with their brand, website or any other part of their marketing, is usually as follows:
+I don’t know exactly when it became standard practice, but the way most businesses find an agency to help them with their [brand](/creates/brand), [website](creates/web) or any other part of their [marketing](creates/online-marketing), is usually as follows:
 
 ### Step 1 – Research a number of possible suppliers
 
