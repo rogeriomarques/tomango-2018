@@ -33,7 +33,7 @@ On my first project, the key thing I learned was to take my time, something I ha
 
 ## Off the leash!
 
-After spending some time learning more about The Tomango Way, and working alongside Mike, I was finally ready to take up the challenge of my first web design project. Slightly nervous, but very excited, I tackled the redesign of 
+After spending some time learning more about The Tomango Way, and working alongside Mike, I was finally ready to take up the challenge of my first [web design](/creates/web) project. Slightly nervous, but very excited, I tackled the redesign of 
 [Treeconomics](created/treeconomics/).
 
 Having read the project plan Mark had produced with the client it became clear I had to design a website that got the company's vision and messages across, whilst also showcasing some of the great projects Treeconomics are involved in.
