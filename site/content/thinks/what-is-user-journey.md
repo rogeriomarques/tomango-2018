@@ -10,7 +10,7 @@ thinks/categories:
  - web-design
 ---
 
-In the latest in my series covering the planning of your website project, we take a look at User Journeys.
+In the latest in my series covering the planning of your [website project](/creates/web), we take a look at User Journeys.
 
 ## What is a User Journey?
 

@@ -9,7 +9,7 @@ thinks/categories:
  - web-design
 ---
 
-So you've decided [you need a new website](/thinks/do-i-need-a-new-website/), settled on [the type of website you need](/thinks/what-sort-of-website-do-i-need/), and [created a website design brief](/thinks/create-website-design-brief-download-template/). You're ready to put the feelers out so you can choose a web design agency.
+So you've decided [you need a new website](/thinks/do-i-need-a-new-website/), settled on [the type of website you need](/thinks/what-sort-of-website-do-i-need/), and [created a website design brief](/thinks/create-website-design-brief-download-template/). You're ready to put the feelers out so you can choose a [web design](/creates/web) agency.
 
 But how do you choose the right agency for your project?
 
@@ -122,11 +122,11 @@ Smaller agencies are less likely to do everything in-house. And if they don't, t
 
 If your website needs to be found on search, you need to find out *now* what the web design agency's going to do about it, not when the project's halfway through, or nearing completion.
 
-A successful online marketing campaign needs the website to be set up right, stuff like page names and how your copy's structured; things you'll be working out right at the start of the project. If your web agency does online marketing too, you'll get a more joined-up approach to the whole project. If they don't, how will they work with the people doing your SEO?
+A successful [online marketing](/creates/online-marketing) campaign needs the website to be set up right, stuff like page names and how your copy's structured; things you'll be working out right at the start of the project. If your web agency does online marketing too, you'll get a more joined-up approach to the whole project. If they don't, how will they work with the people doing your SEO?
 
 ## 13. Do they do brand identity and offline design work?
 
-Similarly, if you're planning to invest in a new brand identity and other printed marketing materials to really make your project a success, get everything created by the same agency for a much more cohesive and consistent result.
+Similarly, if you're planning to invest in a new [brand identity](/creates/brand) and other printed marketing materials to really make your project a success, get everything created by the same agency for a much more cohesive and consistent result.
 
 ![](images/blog/sussex-oak-featured1.jpg)
 

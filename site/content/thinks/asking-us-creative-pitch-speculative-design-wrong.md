@@ -88,4 +88,6 @@ So please, don't ask us to do a speculative design or a creative pitch for your 
 
 A large dollop of acknowledgement goes to Paul Boag's excellent blog post [Why speculative design is wrong](http://boagworld.com/design/why-speculative-design-is-wrong/), which reassured us that our policy was right, and provided inspiration for this piece.
 
+If you are interested in finding out more about how Tomango can help you with your [web design project](/creates/web), get in touch.
+
 

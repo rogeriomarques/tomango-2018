@@ -11,7 +11,7 @@ thinks/categories:
 
 "But I don't like green. Can we try it in another colour?"
 
-This was what a client said to us, a couple of years ago, when we presented our concept for his new brand identity.
+This was what a client said to us, a couple of years ago, when we presented our concept for his new [brand identity](/creates/brand).
 
 It seems like an understandable response and a reasonable request, right?
 

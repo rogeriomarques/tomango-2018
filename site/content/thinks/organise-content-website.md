@@ -8,7 +8,7 @@ thinks/categories:
  - web-design
 ---
 
-Writing the content for your new website can be a daunting task.
+Writing the content for your [new website](/creates/web) can be a daunting task.
 
 In this post you'll find out how to get content together in a way that suits both you and your web designer and makes the process that little bit easier.
 

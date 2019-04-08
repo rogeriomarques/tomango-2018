@@ -10,7 +10,7 @@ thinks/categories:
  - web-design
 ---
 
-It amazes me how often I see clients repeatedly making the same mistakes and bad decisions when it comes to designing a new website.
+It amazes me how often I see clients repeatedly making the same mistakes and bad decisions when it comes to [designing a new website](/creates/web).
 
 The worst thing is that these errors of judgement - whether in the planning or design stages or in the way they manage the project - result in a finished site that's nowhere near as good as it could be.
 

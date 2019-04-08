@@ -12,7 +12,7 @@ A couple of weeks ago I was reading a great blog post by [Adam Fairhead](http://
 
 His comment was in his introduction to a piece about [UX mistakes that make users feel stupid](http://thenextweb.com/dd/2015/07/16/5-ux-mistakes-that-make-users-feel-stupid/?ref=webdesignernews.com) and was - in my opinion - bang on the money.
 
-I found myself nodding in agreement to each of his points, and felt his summary deserved not only a closer look, but also an explanation for those who might be planning a new website, so they can make sure when it's finished it gets top marks.
+I found myself nodding in agreement to each of his points, and felt his summary deserved not only a closer look, but also an explanation for those who might be [planning a new website](/creates/web), so they can make sure when it's finished it gets top marks.
 
 Here's what he said a good website must do:
 

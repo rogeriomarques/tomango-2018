@@ -20,6 +20,6 @@ HOP came to us having seen the work we did for [ECE Architecture](http://www.ece
 	citation="Adam Humphrey, Director, HOP"
 >}}
 	
-Using the exceptional photography available – particularly of their projects – we created a contemporary, highly visual site that strengthens their brand and gives them the edge over their competitors in winning more of the projects they want.
+Using the exceptional photography available – particularly of their projects – we utilised [web design](/creates/web) to create a contemporary, highly visual site that strengthens their brand and gives them the edge over their competitors in winning more of the projects they want.
 
 {{< button "http://www.hop.uk.com" >}}Visit site{{</ button >}}

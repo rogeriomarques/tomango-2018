@@ -8,7 +8,7 @@ thinks/categories:
  - web-design
 ---
 
-The prospect of making a new website live can be a bit of a daunting task, especially if you’re replacing your current site. Keeping downtime to a minimum is of paramount importance and a smooth transition between the old and new website is crucial. However, if you’ve done your homework and prepared for the go-live process with a website launch checklist, there’s nothing to be worried about. Here are our top tips:
+The prospect of making a new website live can be a bit of a daunting task, especially if you’re replacing your current site. Keeping downtime to a minimum is of paramount importance and a smooth transition between the old and [new website](/creates/web) is crucial. However, if you’ve done your homework and prepared for the go-live process with a website launch checklist, there’s nothing to be worried about. Here are our top tips:
 
 ## Cross-browser testing
 

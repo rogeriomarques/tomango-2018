@@ -9,7 +9,7 @@ thinks/categories:
 
 On the 1st May 2018, we launched the latest Tomango website. To represent our change in business approach and new brand, the site was designed to be confident, clear and quick. Confidence meant stripping away the fluff, leaving only the clearest message possible.
 
-This ethos was applied to the brand, copy and site design — so it was only natural for it to extend to the development, and this focus lead to great performance.
+This ethos was applied to the [brand](/creates/brand), copy and [website design](/creates/web) — so it was only natural for it to extend to the development, and this focus lead to great performance.
 
 I'm going to dive into some of the technical decisions made building this site in this post.
 

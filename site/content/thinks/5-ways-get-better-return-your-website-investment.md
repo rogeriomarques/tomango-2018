@@ -28,7 +28,7 @@ In addition, good planning of the various features and functionality that are ne
 
 ## 2. Balanced design
 
-Steve Jobs famously said __"Design is not just what it looks like and feels like. Design is how it works."__  The best website design achieves a balance of commercial needs - how the site is going to help an organisation achieve its goals - with the aesthetic, i.e. what it looks like.   Truly great website design combines original creativity with the practicalities of how the site will be managed and other technical considerations.  Designers and developers should work as a team, understanding the needs of the client and how best to meet them.
+Steve Jobs famously said __"Design is not just what it looks like and feels like. Design is how it works."__  [The best website design](/creates/web) achieves a balance of commercial needs - how the site is going to help an organisation achieve its goals - with the aesthetic, i.e. what it looks like.   Truly great website design combines original creativity with the practicalities of how the site will be managed and other technical considerations.  Designers and developers should work as a team, understanding the needs of the client and how best to meet them.
 
 {{< quote
 	body="Design isn't just what it looks like and feels like. Design is how it works."

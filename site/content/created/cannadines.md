@@ -20,7 +20,7 @@ Not one to rest on their laurels, later that year we began discussions with them
 
 Now they had the right physical presence, they needed their website to reflect their brand values and tell more people in their catchment area about the “new” Cannadines.
 
-The new site, which repositions them as a premium supplier, was launched in the late summer of 2018, and they started seeing the benefits straight away.
+The [new website](/creates/web), which repositions them as a premium supplier, was launched in the late summer of 2018, and they started seeing the benefits straight away.
 
 {{< quote
 	body="The effect of having a new website was immediate. In the first month after launch, our enquiries more than doubled."

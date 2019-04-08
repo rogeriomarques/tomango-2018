@@ -10,7 +10,7 @@ thinks/categories:
 
 We've all heard the cliches about planning - "If you don't know where you want to go, how do you know which route to take?"or maybe "Failing to plan is planning to fail".
 
-When you're thinking about your new website, these well-worn quotes are worth paying attention to.  If you don't take the time to think about what your website is for and what you are trying to achieve, there's a really good chance of messing it up.<!--more-->
+When you're thinking about your [new website](/creates/web), these well-worn quotes are worth paying attention to.  If you don't take the time to think about what your website is for and what you are trying to achieve, there's a really good chance of messing it up.<!--more-->
 
 ## 8 most important questions
 

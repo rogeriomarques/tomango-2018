@@ -38,29 +38,6 @@ When we show you our ideas, we’ll explain the thought process in detail so you
 
 > Because we pay attention to detail, your brand identity will work harder for longer.
 
-We’ll also make sure you make the best first impression to your customers by rolling out your new brand across all your marketing materials, including:
-
-### Printed marketing assets
-
-We can design and produce bespoke brochures, leaflets or flyers to match your business needs and ensure your brand is represented in the best physical way to gain potential new customers or clients.
-
-### Business stationery
-
-When rolling out your brand we will ensure you have everything you need designed and printed from bespoke business cards, letterheads, compliments slip, pens, pencils, business signage and clothing. 
-
-We can also roll your brand out onto vehicles – producing custom graphics ready for print and application using only the best vinyl technicians.
-
-### Events
-
-Attending events and exhibitions can be a great way to make industry contacts and meet potential customers.
-
-At Tomango we have experience helping our clients make the most out of their brand identity to ensure they make a real statement through event marketing. 
-
-Through designing elements such as stands, signage and promotional material we will help you project a strong, confident and lasting impression with all attendees and event stakeholders that come into contact with your organisation in a professional events setting.
-
-### Photography
-
-Often one of the stumbling blocks for clients launching a new website or producing printed collateral can be imagery, particularly high-quality imagery. The importance of high-quality imagery is central to the success of your brand, at Tomango we have access to excellent photographers who will put your brand or products first.
-
+We’ll also make sure you make the best first impression to your customers by rolling out your new brand across all your marketing materials, whether it’s business stationery, brochures or exhibition stands.
 
 {{< button "/contact/" >}}Get in touch{{</ button >}}

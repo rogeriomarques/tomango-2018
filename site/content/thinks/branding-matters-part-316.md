@@ -63,7 +63,7 @@ Unfortunately I don't know how the story ended, or how our bemused customer serv
 
 The customer was devastated that she wouldn't have the opportunity for all her neighbours to see where she'd bought her lovely new carpet!
 
-We often think about our brand identity influencing a sale - attractive packaging, website, printed materials - but it just goes to show you should never underestimate how important your brand is to your customers in other ways - even if their reasons are slightly unusual.
+We often think about our [brand identity](/creates/brand) influencing a sale - attractive packaging, website, printed materials - but it just goes to show you should never underestimate how important your brand is to your customers in other ways - even if their reasons are slightly unusual.
 
 Are you creating the right impression to your customers, and their friends and neighbours?
 

@@ -12,7 +12,7 @@ thinks/categories:
 
 ## Brand design brief
 
-Their brand identity needed to express Oldfield Smith's quality of service,  combining the highest professional standards with a warm, open and honest service.  The image they want to portray is approachable, honest, professional, results-driven and enthusiastic.
+Their [brand identity](/creates/brand) needed to express Oldfield Smith's quality of service,  combining the highest professional standards with a warm, open and honest service.  The image they want to portray is approachable, honest, professional, results-driven and enthusiastic.
 
 Once we had established the brand design brief with the client, our design team was able to set to work on creating concepts.
 

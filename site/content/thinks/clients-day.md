@@ -19,7 +19,7 @@ Haywards Heath-based Window Wise are the go-to name in West Sussex for anyone wh
 
 With over 30 years of experience, their knowledgeable team have helped hundreds of homeowners in the area by providing them with top-quality products and exceptional customer service.
 
-Since designing their current website, Tomango has worked with Window Wise for a number of years on all things digital marketing.
+Since [designing their current website](/creates/web), Tomango has worked with Window Wise for a number of years on all things digital marketing.
 
 Our collaborative efforts focusing on both traditional and local SEO sees them routinely ranked on page one, position one for a whole host of relevant search terms.
 
