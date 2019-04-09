@@ -6,7 +6,7 @@ image: images/team/1000/nick.jpg
 banner: images/team/nick.jpg
 bannerLarge: images/team/1000/nick.jpg
 bannerHuge: images/team/huge/nick.jpg
-bannerPosition: 8%
+bannerPosition: 20%
 weight: 50
 ---
 
@@ -15,25 +15,31 @@ Nick is Tomango's Lead Web Developer.
 He is responsible for developing our bespoke website designs.
 
 ## What’s your perfect breakfast?
-Bacon and egg sandwich with plenty of ketchup.
+During the week - Toast & Marmite or poached egg on toast
+
+Weekend - Croissants with strong cheddar cheese  or vegetarian sausages, toast, baked beans and fried mushrooms
 
 ## Favourite sandwich filling?
-Cheese, ham and mayo please. On brown.
+Preferably 3 bean or Felafel wrap but if it has to be a sandwich then Cheddar Ploughman's
 
 ## Favourite film, TV programme, book?
-Film: The Day of the Jackal, or The Odd Couple. TV programme: HIGNFY or something voiced by David Attenborough. Book: The Book Thief by Markus Zusak.
+Film: The Death of Stalin
+TV: Nordic Noir (eg: The Bridge, Trapped, Follow the Money)
+Book: I read too many books to have a particular favourite. 
+Fiction - Irvine Welsh & Colin Bateman
+Non-Fiction - History mostly (especially the period of the world wars)
 
 ## Favourite superhero?
-Danger Mouse.
+Inspector Gadget although he’s not technically a superhero, otherwise Batman
 
 ## Marmite – love it or hate it?
 Love it.
 
 ## Cats or Dogs?
-Dogs, without question.
+Both, but cats are higher than dogs except for Darwin my Beagle.
 
 ## What did you want to be when you grew up?
-When I was really little, like most of my friends I wanted to be a professional footballist, but when I realised this wasn’t ever going to happen, I actually wanted to be a Graphic Designer. So I got pretty close.
+Air sea rescue Helicopter Pilot.
 
 ## What would be your dream holiday?
-A month exploring France and Italy in a campervan with a Vespa on the back.
+Visiting all the ancient temples & pyramids in South America, Vietnam and Cambodia
