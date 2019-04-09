@@ -24,9 +24,13 @@ Preferably 3 bean or Felafel wrap but if it has to be a sandwich then Cheddar Pl
 
 ## Favourite film, TV programme, book?
 Film: The Death of Stalin
+
 TV: Nordic Noir (eg: The Bridge, Trapped, Follow the Money)
+
 Book: I read too many books to have a particular favourite. 
+
 Fiction - Irvine Welsh & Colin Bateman
+
 Non-Fiction - History mostly (especially the period of the world wars)
 
 ## Favourite superhero?
