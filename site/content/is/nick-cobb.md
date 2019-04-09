@@ -34,7 +34,7 @@ Fiction - Irvine Welsh & Colin Bateman.
 Non-Fiction - History mostly (especially the period of the world wars).
 
 ## Favourite superhero?
-Inspector Gadget although he’s not technically a superhero, otherwise Batman.
+Inspector Gadget, although he’s not technically a superhero, otherwise Batman.
 
 ## Marmite – love it or hate it?
 Love it.
